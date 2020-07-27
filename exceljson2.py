@@ -9,6 +9,10 @@ fruits_list = []
 for i in range(2, 175):
     food_id = sheets.cell(row = i, column = 2).value
     name = sheets.cell(row = i, column = 4).value
+    if name.split("　")[0][0] == '(' or name.split("　")[0][0] == '（':
+        name = name.split("　")[1]
+    else:
+        name = name.split("　")[0]
     fruits_list.append({
     "food_id": food_id,
     "name": name
