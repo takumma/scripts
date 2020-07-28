@@ -2,7 +2,7 @@ import openpyxl
 import json
 import codecs
 
-book = openpyxl.load_workbook('C:/Users/taku3/Downloads/1365344_1-0207r.xlsx')
+book = openpyxl.load_workbook('C:/Users/taku3/work/scripts/1365344_1-0207r.xlsx')
 sheets = book['07 果実類']
 path_w = 'C:/Users/taku3/work/scripts/fruit2.json'
 fruits_list = [{
@@ -56,6 +56,9 @@ for i in range(2, 175):
         "vitamin_c": float(vitamin_c),
         })
     
-# print(fruits_list[-1]['name'] != "name")
+data_dict = {
+    "data": "fruits",
+    "fruits": fruits_list
+}
 with open(path_w, mode = 'a', encoding = 'utf-8') as f:
-    f.write(json.dumps(fruits_list, ensure_ascii = False, indent = 4))
+    f.write(json.dumps(data_dict, ensure_ascii = False, indent = 4))
