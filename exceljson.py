@@ -22,24 +22,14 @@ for i in range(9, 183):
 
     if dietary_fiber == 'Tr':
         dietary_fiber = 0
-    else:
-        dietary_fiber = float(dietary_fiber)
     if potassium == 'Tr':
         potassium = 0
-    else:
-        potassium = float(potassium)
     if iron == 'Tr':
         iron = 0
-    else:
-        iron = float(iron)
     if vitamin_b1 == 'Tr':
         vitamin_b1 = 0
-    else:
-        vitamin_b1 = float(vitamin_b1)
     if vitamin_c == 'Tr':
         vitamin_c = 0
-    else:
-        vitamin_c = float(vitamin_c)
 
     if name.split("　")[0][0] == '(' or name.split("　")[0][0] == '（':
         name = name.split("　")[1]
