@@ -1,5 +1,4 @@
 from excel2json import convert_from_file
-import json
 
 xlsx_path = "C:/Users/taku3/work/scripts/1365344_1-0207r.xlsx"
 convert_from_file(xlsx_path)

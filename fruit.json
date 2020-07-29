@@ -1,550 +1,702 @@
 {
-    "id": "07001",
-    "name": "あけび　果肉　生　　　"
-}{
-    "id": "07002",
-    "name": "あけび　果皮　生　　　"
-}{
-    "id": "07003",
-    "name": "アセロラ　酸味種　生　　　"
-}{
-    "id": "07159",
-    "name": "アセロラ　甘味種　生　　　"
-}{
-    "id": "07004",
-    "name": "アセロラ　10 %果汁入り飲料　　"
-}{
-    "id": "07005",
-    "name": "アテモヤ　生　　　"
-}{
-    "id": "07006",
-    "name": "アボカド　生　　　"
-}{
-    "id": "07007",
-    "name": "あんず　生　　　"
-}{
-    "id": "07008",
-    "name": "あんず　乾　　　"
-}{
-    "id": "07009",
-    "name": "あんず　缶詰　　　"
-}{
-    "id": "07001",
-    "name": "あけび　果肉　生　　　"
-}{
-    "id": "07002",
-    "name": "あけび　果皮　生　　　"
-}{
-    "id": "07003",
-    "name": "アセロラ　酸味種　生　　　"
-}{
-    "id": "07159",
-    "name": "アセロラ　甘味種　生　　　"
-}{
-    "id": "07004",
-    "name": "アセロラ　10 %果汁入り飲料　　"
-}{
-    "id": "07005",
-    "name": "アテモヤ　生　　　"
-}{
-    "id": "07006",
-    "name": "アボカド　生　　　"
-}{
-    "id": "07007",
-    "name": "あんず　生　　　"
-}{
-    "id": "07008",
-    "name": "あんず　乾　　　"
-}{
-    "id": "07009",
-    "name": "あんず　缶詰　　　"
-}{
-    "id": "07010",
-    "name": "あんず　ジャム　高糖度　　"
-}{
-    "id": "07011",
-    "name": "あんず　ジャム　低糖度　　"
-}{
-    "id": "07012",
-    "name": "いちご　生　　　"
-}{
-    "id": "07013",
-    "name": "いちご　ジャム　高糖度　　"
-}{
-    "id": "07014",
-    "name": "いちご　ジャム　低糖度　　"
-}{
-    "id": "07160",
-    "name": "いちご　乾　　　"
-}{
-    "id": "07015",
-    "name": "いちじく　生　　　"
-}{
-    "id": "07016",
-    "name": "いちじく　乾　　　"
-}{
-    "id": "07017",
-    "name": "いちじく　缶詰　　　"
-}{
-    "id": "07019",
-    "name": "うめ　生　　　"
-}{
-    "id": "07020",
-    "name": "うめ　梅漬　塩漬　　"
-}{
-    "id": "07021",
-    "name": "うめ　梅漬　調味漬　　"
-}{
-    "id": "07022",
-    "name": "うめ　梅干し　塩漬　　"
-}{
-    "id": "07023",
-    "name": "うめ　梅干し　調味漬　　"
-}{
-    "id": "07024",
-    "name": "うめ　梅びしお　　　"
-}{
-    "id": "07025",
-    "name": "うめ　20 %果汁入り飲料　　　"
-}{
-    "id": "07037",
-    "name": "オリーブ　塩漬　グリーンオリーブ　　"
-}{
-    "id": "07038",
-    "name": "オリーブ　塩漬　ブラックオリーブ　　"
-}{
-    "id": "07039",
-    "name": "オリーブ　塩漬　スタッフドオリーブ　　"
-}{
-    "id": "07049",
-    "name": "かき　甘がき　生　　　"
-}{
-    "id": "07050",
-    "name": "かき　渋抜きがき　生　　　"
-}{
-    "id": "07051",
-    "name": "かき　干しがき　　　"
-}{
-    "id": "07053",
-    "name": "かりん　生　　　"
-}{
-    "id": "07018",
-    "name": "（かんきつ類）　いよかん　砂じょう　生　　"
-}{
-    "id": "07026",
-    "name": "（かんきつ類）　うんしゅうみかん　じょうのう　早生　生　"
-}{
-    "id": "07027",
-    "name": "（かんきつ類）　うんしゅうみかん　じょうのう　普通　生　"
-}{
-    "id": "07028",
-    "name": "（かんきつ類）　うんしゅうみかん　砂じょう　早生　生　"
-}{
-    "id": "07029",
-    "name": "（かんきつ類）　うんしゅうみかん　砂じょう　普通　生　"
-}{
-    "id": "07030",
-    "name": "（かんきつ類）　うんしゅうみかん　果実飲料　ストレートジュース　"
-}{
-    "id": "07031",
-    "name": "（かんきつ類）　うんしゅうみかん　果実飲料　濃縮還元ジュース　"
-}{
-    "id": "07032",
-    "name": "（かんきつ類）　うんしゅうみかん　果実飲料　果粒入りジュース　"
-}{
-    "id": "07033",
-    "name": "（かんきつ類）　うんしゅうみかん　果実飲料　50 %果汁入り飲料　"
-}{
-    "id": "07034",
-    "name": "（かんきつ類）　うんしゅうみかん　果実飲料　20 %果汁入り飲料　"
-}{
-    "id": "07035",
-    "name": "（かんきつ類）　うんしゅうみかん　缶詰　果肉　"
-}{
-    "id": "07036",
-    "name": "（かんきつ類）　うんしゅうみかん　缶詰　液汁　"
-}{
-    "id": "07040",
-    "name": "（かんきつ類）　オレンジ　ネーブル　砂じょう　生　"
-}{
-    "id": "07041",
-    "name": "（かんきつ類）　オレンジ　バレンシア　米国産　砂じょう　生　"
-}{
-    "id": "07042",
-    "name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　ストレートジュース　"
-}{
-    "id": "07043",
-    "name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　濃縮還元ジュース　"
-}{
-    "id": "07044",
-    "name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　50 %果汁入り飲料　"
-}{
-    "id": "07045",
-    "name": "（かんきつ類）　オレンジ　バレンシア　果実飲料　30 %果汁入り飲料　"
-}{
-    "id": "07046",
-    "name": "（かんきつ類）　オレンジ　バレンシア　マーマレード　高糖度　"
-}{
-    "id": "07047",
-    "name": "（かんきつ類）　オレンジ　バレンシア　マーマレード　低糖度　"
-}{
-    "id": "07161",
-    "name": "（かんきつ類）　オレンジ　福原オレンジ　砂じょう　生　"
-}{
-    "id": "07048",
-    "name": "（かんきつ類）　オロブランコ　砂じょう　生　　"
-}{
-    "id": "07052",
-    "name": "（かんきつ類）　かぼす　果汁　生　　"
-}{
-    "id": "07162",
-    "name": "（かんきつ類）　かわちばんかん　砂じょう　生　　"
-}{
-    "id": "07163",
-    "name": "（かんきつ類）　きよみ　砂じょう　生　　"
-}{
-    "id": "07056",
-    "name": "（かんきつ類）　きんかん　全果　生　　"
-}{
-    "id": "07062",
-    "name": "（かんきつ類）　グレープフルーツ　白肉種　砂じょう　生　"
-}{
-    "id": "07164",
-    "name": "（かんきつ類）　グレープフルーツ　紅肉種　砂じょう　生　"
-}{
-    "id": "07063",
-    "name": "（かんきつ類）　グレープフルーツ　果実飲料　ストレートジュース　"
-}{
-    "id": "07064",
-    "name": "（かんきつ類）　グレープフルーツ　果実飲料　濃縮還元ジュース　"
-}{
-    "id": "07065",
-    "name": "（かんきつ類）　グレープフルーツ　果実飲料　50 %果汁入り飲料　"
-}{
-    "id": "07066",
-    "name": "（かんきつ類）　グレープフルーツ　果実飲料　20 %果汁入り飲料　"
-}{
-    "id": "07067",
-    "name": "（かんきつ類）　グレープフルーツ　缶詰　"
-}{
-    "id": "07074",
-    "name": "（かんきつ類）　さんぼうかん　砂じょう　生　　"
-}{
-    "id": "07075",
-    "name": "（かんきつ類）　シークヮーサー　果汁　生　　"
-}{
-    "id": "07076",
-    "name": "（かんきつ類）　シークヮーサー　10 %果汁入り飲料　　"
-}{
-    "id": "07165",
-    "name": "（かんきつ類）　しらぬひ　砂じょう　生　　"
-}{
-    "id": "07078",
-    "name": "（かんきつ類）　すだち　果皮　生　　"
-}{
-    "id": "07079",
-    "name": "（かんきつ類）　すだち　果汁　生　　"
-}{
-    "id": "07166",
-    "name": "（かんきつ類）　せとか　砂じょう　生　　"
-}{
-    "id": "07085",
-    "name": "（かんきつ類）　セミノール　砂じょう　生　　"
-}{
-    "id": "07083",
-    "name": "（かんきつ類）　だいだい　果汁　生　　"
-}{
-    "id": "07093",
-    "name": "（かんきつ類）　なつみかん　砂じょう　生　　"
-}{
-    "id": "07094",
-    "name": "（かんきつ類）　なつみかん　缶詰　　"
-}{
-    "id": "07105",
-    "name": "（かんきつ類）　はっさく　砂じょう　生　　"
-}{
-    "id": "07167",
-    "name": "（かんきつ類）　はるみ　砂じょう　生　　"
-}{
-    "id": "07112",
-    "name": "（かんきつ類）　ひゅうがなつ　じょうのう及びアルベド　生　　"
-}{
-    "id": "07113",
-    "name": "（かんきつ類）　ひゅうがなつ　砂じょう　生　　"
-}{
-    "id": "07126",
-    "name": "（かんきつ類）　ぶんたん　砂じょう　生　　"
-}{
-    "id": "07127",
-    "name": "（かんきつ類）　ぶんたん　ざぼん漬　　"
-}{
-    "id": "07129",
-    "name": "（かんきつ類）　ぽんかん　砂じょう　生　　"
-}{
-    "id": "07142",
-    "name": "（かんきつ類）　ゆず　果皮　生　　"
-}{
-    "id": "07143",
-    "name": "（かんきつ類）　ゆず　果汁　生　　"
-}{
-    "id": "07145",
-    "name": "（かんきつ類）　ライム　果汁　生　　"
-}{
-    "id": "07155",
-    "name": "（かんきつ類）　レモン　全果　生　　"
-}{
-    "id": "07156",
-    "name": "（かんきつ類）　レモン　果汁　生　　"
-}{
-    "id": "07054",
-    "name": "キウイフルーツ　緑肉種　生　　　"
-}{
-    "id": "07168",
-    "name": "キウイフルーツ　黄肉種　生　　　"
-}{
-    "id": "07055",
-    "name": "キワノ　生　　　"
-}{
-    "id": "07057",
-    "name": "グァバ　赤肉種　生　　　"
-}{
-    "id": "07169",
-    "name": "グァバ　白肉種　生　　　"
-}{
-    "id": "07058",
-    "name": "グァバ　果実飲料　20 %果汁入り飲料（ネクター）　　"
-}{
-    "id": "07059",
-    "name": "グァバ　果実飲料　10 %果汁入り飲料　　"
-}{
-    "id": "07060",
-    "name": "グーズベリー　生　　　"
-}{
-    "id": "07061",
-    "name": "ぐみ　生　　　"
-}{
-    "id": "07157",
-    "name": "ココナッツ　ココナッツウォーター　　　"
-}{
-    "id": "07158",
-    "name": "ココナッツ　ココナッツミルク　　　"
-}{
-    "id": "07170",
-    "name": "ココナッツ　ナタデココ　　　"
-}{
-    "id": "07070",
-    "name": "さくらんぼ　国産　生　　　"
-}{
-    "id": "07071",
-    "name": "さくらんぼ　米国産　生　 　"
-}{
-    "id": "07072",
-    "name": "さくらんぼ　米国産　缶詰　　"
-}{
-    "id": "07073",
-    "name": "ざくろ　生　　　"
-}{
-    "id": "07077",
-    "name": "すいか　赤肉種　生　　　"
-}{
-    "id": "07171",
-    "name": "すいか　黄肉種　生　　　"
-}{
-    "id": "07069",
-    "name": "スターフルーツ　生　　　"
-}{
-    "id": "07080",
-    "name": "（すもも類）　にほんすもも　生　　"
-}{
-    "id": "07081",
-    "name": "（すもも類）　プルーン　生　　"
-}{
-    "id": "07082",
-    "name": "（すもも類）　プルーン　乾　　"
-}{
-    "id": "07086",
-    "name": "チェリモヤ　生　　　"
-}{
-    "id": "07111",
-    "name": "ドラゴンフルーツ　生　　　"
-}{
-    "id": "07087",
-    "name": "ドリアン　生　　　"
-}{
-    "id": "07088",
-    "name": "（なし類）　日本なし　生　　"
-}{
-    "id": "07089",
-    "name": "（なし類）　日本なし　缶詰　　"
-}{
-    "id": "07090",
-    "name": "（なし類）　中国なし　生　　"
-}{
-    "id": "07091",
-    "name": "（なし類）　西洋なし　生　　"
-}{
-    "id": "07092",
-    "name": "（なし類）　西洋なし　缶詰　　"
-}{
-    "id": "07095",
-    "name": "なつめ　乾　　　"
-}{
-    "id": "07096",
-    "name": "なつめやし　乾　　　"
-}{
-    "id": "07097",
-    "name": "パインアップル　生　　　"
-}{
-    "id": "07098",
-    "name": "パインアップル　果実飲料　ストレートジュース　　"
-}{
-    "id": "07099",
-    "name": "パインアップル　果実飲料　濃縮還元ジュース　　"
-}{
-    "id": "07100",
-    "name": "パインアップル　果実飲料　50 %果汁入り飲料　　"
-}{
-    "id": "07101",
-    "name": "パインアップル　果実飲料　10 %果汁入り飲料　　"
-}{
-    "id": "07102",
-    "name": "パインアップル　缶詰　　　"
-}{
-    "id": "07103",
-    "name": "パインアップル　砂糖漬　　　"
-}{
-    "id": "07104",
-    "name": "ハスカップ　生　　　"
-}{
-    "id": "07106",
-    "name": "パッションフルーツ　果汁　生　　　"
-}{
-    "id": "07107",
-    "name": "バナナ　生　　　"
-}{
-    "id": "07108",
-    "name": "バナナ　乾　　　"
-}{
-    "id": "07109",
-    "name": "パパイア　完熟　生　　　"
-}{
-    "id": "07110",
-    "name": "パパイア　未熟　生　　　"
-}{
-    "id": "07114",
-    "name": "びわ　生　　　"
-}{
-    "id": "07115",
-    "name": "びわ　缶詰　　　"
-}{
-    "id": "07116",
-    "name": "ぶどう　生　　　"
-}{
-    "id": "07117",
-    "name": "ぶどう　干しぶどう　　　"
-}{
-    "id": "07118",
-    "name": "ぶどう　果実飲料　ストレートジュース　　"
-}{
-    "id": "07119",
-    "name": "ぶどう　果実飲料　濃縮還元ジュース　　"
-}{
-    "id": "07120",
-    "name": "ぶどう　果実飲料　70 %果汁入り飲料　　"
-}{
-    "id": "07121",
-    "name": "ぶどう　果実飲料　10 %果汁入り飲料　　"
-}{
-    "id": "07122",
-    "name": "ぶどう　缶詰　　　"
-}{
-    "id": "07123",
-    "name": "ぶどう　ジャム　　　"
-}{
-    "id": "07124",
-    "name": "ブルーベリー　生　　　"
-}{
-    "id": "07125",
-    "name": "ブルーベリー　ジャム　　　"
-}{
-    "id": "07172",
-    "name": "ブルーベリー　乾　　　"
-}{
-    "id": "07128",
-    "name": "ホワイトサポテ　生　　　"
-}{
-    "id": "07130",
-    "name": "まくわうり　黄肉種　生　　　"
-}{
-    "id": "07173",
-    "name": "まくわうり　白肉種　生　　　"
-}{
-    "id": "07131",
-    "name": "マルメロ　生　　　"
-}{
-    "id": "07132",
-    "name": "マンゴー　生　　　"
-}{
-    "id": "07133",
-    "name": "マンゴスチン　生　　　"
-}{
-    "id": "07134",
-    "name": "メロン　温室メロン　生　　　"
-}{
-    "id": "07135",
-    "name": "メロン　露地メロン　緑肉種　生　"
-}{
-    "id": "07174",
-    "name": "メロン　露地メロン　赤肉種　生　　"
-}{
-    "id": "07136",
-    "name": "（もも類）　もも　生　　"
-}{
-    "id": "07137",
-    "name": "（もも類）　もも　30 %果汁入り飲料（ネクター）　　"
-}{
-    "id": "07138",
-    "name": "（もも類）　もも　缶詰　白肉種　果肉　"
-}{
-    "id": "07175",
-    "name": "（もも類）　もも　缶詰　黄肉種　果肉　"
-}{
-    "id": "07139",
-    "name": "（もも類）　もも　缶詰　液汁　"
-}{
-    "id": "07140",
-    "name": "（もも類）　ネクタリン　生　　"
-}{
-    "id": "07141",
-    "name": "やまもも　生　　　"
-}{
-    "id": "07144",
-    "name": "ライチー　生　　　"
-}{
-    "id": "07146",
-    "name": "ラズベリー　生　　　"
-}{
-    "id": "07147",
-    "name": "りゅうがん　乾　　　"
-}{
-    "id": "07148",
-    "name": "りんご　皮むき　生　　　"
-}{
-    "id": "07176",
-    "name": "りんご　皮つき　生　　　"
-}{
-    "id": "07149",
-    "name": "りんご　果実飲料　ストレートジュース　　"
-}{
-    "id": "07150",
-    "name": "りんご　果実飲料　濃縮還元ジュース　　"
-}{
-    "id": "07151",
-    "name": "りんご　果実飲料　50 %果汁入り飲料　　"
-}{
-    "id": "07152",
-    "name": "りんご　果実飲料　30 %果汁入り飲料　　"
-}{
-    "id": "07153",
-    "name": "りんご　缶詰　　　"
+    "data": "fruits",
+    "fruits": [
+        {
+            "food_id": 0,
+            "name": ""
+        },
+        {
+            "food_id": 7001,
+            "name": "あけび",
+            "dietary_fiber": 1.1,
+            "potassium": 95.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 65.0
+        },
+        {
+            "food_id": 7003,
+            "name": "アセロラ",
+            "dietary_fiber": 1.9,
+            "potassium": 130.0,
+            "iron": 0.5,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 1700.0
+        },
+        {
+            "food_id": 7005,
+            "name": "アテモヤ",
+            "dietary_fiber": 3.3,
+            "potassium": 340.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 14.0
+        },
+        {
+            "food_id": 7006,
+            "name": "アボカド",
+            "dietary_fiber": 5.3,
+            "potassium": 720.0,
+            "iron": 0.7,
+            "vitamin_b1": 0.1,
+            "vitamin_c": 15.0
+        },
+        {
+            "food_id": 7007,
+            "name": "あんず",
+            "dietary_fiber": 1.6,
+            "potassium": 200.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 3.0
+        },
+        {
+            "food_id": 7012,
+            "name": "いちご",
+            "dietary_fiber": 1.4,
+            "potassium": 170.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 62.0
+        },
+        {
+            "food_id": 7015,
+            "name": "いちじく",
+            "dietary_fiber": 1.9,
+            "potassium": 170.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 2.0
+        },
+        {
+            "food_id": 7019,
+            "name": "うめ",
+            "dietary_fiber": 2.5,
+            "potassium": 240.0,
+            "iron": 0.6,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 6.0
+        },
+        {
+            "food_id": 7037,
+            "name": "オリーブ",
+            "dietary_fiber": 3.3,
+            "potassium": 47.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 12.0
+        },
+        {
+            "food_id": 7049,
+            "name": "かき",
+            "dietary_fiber": 1.6,
+            "potassium": 170.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 70.0
+        },
+        {
+            "food_id": 7053,
+            "name": "かりん",
+            "dietary_fiber": 8.9,
+            "potassium": 270.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 25.0
+        },
+        {
+            "food_id": 7018,
+            "name": "いよかん",
+            "dietary_fiber": 1.1,
+            "potassium": 190.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 35.0
+        },
+        {
+            "food_id": 7026,
+            "name": "うんしゅうみかん",
+            "dietary_fiber": 0.7,
+            "potassium": 130.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 35.0
+        },
+        {
+            "food_id": 7040,
+            "name": "オレンジ",
+            "dietary_fiber": 1.0,
+            "potassium": 180.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 60.0
+        },
+        {
+            "food_id": 7048,
+            "name": "オロブランコ",
+            "dietary_fiber": 0.9,
+            "potassium": 150.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 38.0
+        },
+        {
+            "food_id": 7052,
+            "name": "かぼす",
+            "dietary_fiber": 0.1,
+            "potassium": 140.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 42.0
+        },
+        {
+            "food_id": 7162,
+            "name": "かわちばんかん",
+            "dietary_fiber": 0.6,
+            "potassium": 160.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 36.0
+        },
+        {
+            "food_id": 7163,
+            "name": "きよみ",
+            "dietary_fiber": 0.6,
+            "potassium": 170.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.1,
+            "vitamin_c": 42.0
+        },
+        {
+            "food_id": 7056,
+            "name": "きんかん",
+            "dietary_fiber": 4.6,
+            "potassium": 180.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.1,
+            "vitamin_c": 49.0
+        },
+        {
+            "food_id": 7062,
+            "name": "グレープフルーツ",
+            "dietary_fiber": 0.6,
+            "potassium": 140.0,
+            "iron": 0.0,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 36.0
+        },
+        {
+            "food_id": 7074,
+            "name": "さんぼうかん",
+            "dietary_fiber": 0.9,
+            "potassium": 280.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 39.0
+        },
+        {
+            "food_id": 7075,
+            "name": "シークヮーサー",
+            "dietary_fiber": 0.3,
+            "potassium": 180.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 11.0
+        },
+        {
+            "food_id": 7165,
+            "name": "しらぬひ",
+            "dietary_fiber": 0.6,
+            "potassium": 170.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 48.0
+        },
+        {
+            "food_id": 7078,
+            "name": "すだち",
+            "dietary_fiber": 10.1,
+            "potassium": 290.0,
+            "iron": 0.4,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 110.0
+        },
+        {
+            "food_id": 7166,
+            "name": "せとか",
+            "dietary_fiber": 0.7,
+            "potassium": 170.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 57.0
+        },
+        {
+            "food_id": 7085,
+            "name": "セミノール",
+            "dietary_fiber": 0.8,
+            "potassium": 200.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 41.0
+        },
+        {
+            "food_id": 7083,
+            "name": "だいだい",
+            "dietary_fiber": 0.0,
+            "potassium": 190.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 35.0
+        },
+        {
+            "food_id": 7093,
+            "name": "なつみかん",
+            "dietary_fiber": 1.2,
+            "potassium": 190.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 38.0
+        },
+        {
+            "food_id": 7105,
+            "name": "はっさく",
+            "dietary_fiber": 1.5,
+            "potassium": 180.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 40.0
+        },
+        {
+            "food_id": 7167,
+            "name": "はるみ",
+            "dietary_fiber": 0.8,
+            "potassium": 170.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.11,
+            "vitamin_c": 40.0
+        },
+        {
+            "food_id": 7112,
+            "name": "ひゅうがなつ",
+            "dietary_fiber": 2.1,
+            "potassium": 130.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 26.0
+        },
+        {
+            "food_id": 7126,
+            "name": "ぶんたん",
+            "dietary_fiber": 0.9,
+            "potassium": 180.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 45.0
+        },
+        {
+            "food_id": 7129,
+            "name": "ぽんかん",
+            "dietary_fiber": 1.0,
+            "potassium": 160.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 40.0
+        },
+        {
+            "food_id": 7142,
+            "name": "ゆず",
+            "dietary_fiber": 6.9,
+            "potassium": 140.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 160.0
+        },
+        {
+            "food_id": 7145,
+            "name": "ライム",
+            "dietary_fiber": 0.2,
+            "potassium": 160.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 33.0
+        },
+        {
+            "food_id": 7155,
+            "name": "レモン",
+            "dietary_fiber": 4.9,
+            "potassium": 130.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 100.0
+        },
+        {
+            "food_id": 7054,
+            "name": "キウイフルーツ",
+            "dietary_fiber": 2.5,
+            "potassium": 290.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 69.0
+        },
+        {
+            "food_id": 7055,
+            "name": "キワノ",
+            "dietary_fiber": 2.6,
+            "potassium": 170.0,
+            "iron": 0.4,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 2.0
+        },
+        {
+            "food_id": 7057,
+            "name": "グァバ",
+            "dietary_fiber": 5.1,
+            "potassium": 240.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 220.0
+        },
+        {
+            "food_id": 7060,
+            "name": "グーズベリー",
+            "dietary_fiber": 2.5,
+            "potassium": 200.0,
+            "iron": 1.3,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 22.0
+        },
+        {
+            "food_id": 7061,
+            "name": "ぐみ",
+            "dietary_fiber": 2.0,
+            "potassium": 130.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 5.0
+        },
+        {
+            "food_id": 7157,
+            "name": "ココナッツ",
+            "dietary_fiber": 0.0,
+            "potassium": 230.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 2.0
+        },
+        {
+            "food_id": 7070,
+            "name": "さくらんぼ",
+            "dietary_fiber": 1.2,
+            "potassium": 210.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 10.0
+        },
+        {
+            "food_id": 7073,
+            "name": "ざくろ",
+            "dietary_fiber": 0.0,
+            "potassium": 250.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 10.0
+        },
+        {
+            "food_id": 7077,
+            "name": "すいか",
+            "dietary_fiber": 0.3,
+            "potassium": 120.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 10.0
+        },
+        {
+            "food_id": 7069,
+            "name": "スターフルーツ",
+            "dietary_fiber": 1.8,
+            "potassium": 140.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 12.0
+        },
+        {
+            "food_id": 7080,
+            "name": "にほんすもも",
+            "dietary_fiber": 1.6,
+            "potassium": 150.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 4.0
+        },
+        {
+            "food_id": 7081,
+            "name": "プルーン",
+            "dietary_fiber": 1.9,
+            "potassium": 220.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 4.0
+        },
+        {
+            "food_id": 7086,
+            "name": "チェリモヤ",
+            "dietary_fiber": 2.2,
+            "potassium": 230.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 34.0
+        },
+        {
+            "food_id": 7111,
+            "name": "ドラゴンフルーツ",
+            "dietary_fiber": 1.9,
+            "potassium": 350.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 7.0
+        },
+        {
+            "food_id": 7087,
+            "name": "ドリアン",
+            "dietary_fiber": 2.1,
+            "potassium": 510.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.33,
+            "vitamin_c": 31.0
+        },
+        {
+            "food_id": 7088,
+            "name": "日本なし",
+            "dietary_fiber": 0.9,
+            "potassium": 140.0,
+            "iron": 0.0,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 3.0
+        },
+        {
+            "food_id": 7090,
+            "name": "中国なし",
+            "dietary_fiber": 1.4,
+            "potassium": 140.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 6.0
+        },
+        {
+            "food_id": 7091,
+            "name": "西洋なし",
+            "dietary_fiber": 1.9,
+            "potassium": 140.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 3.0
+        },
+        {
+            "food_id": 7095,
+            "name": "なつめ",
+            "dietary_fiber": 12.5,
+            "potassium": 810.0,
+            "iron": 1.5,
+            "vitamin_b1": 0.1,
+            "vitamin_c": 1.0
+        },
+        {
+            "food_id": 7096,
+            "name": "なつめやし",
+            "dietary_fiber": 7.0,
+            "potassium": 550.0,
+            "iron": 0.8,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 0.0
+        },
+        {
+            "food_id": 7097,
+            "name": "パインアップル",
+            "dietary_fiber": 1.5,
+            "potassium": 150.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 27.0
+        },
+        {
+            "food_id": 7104,
+            "name": "ハスカップ",
+            "dietary_fiber": 2.1,
+            "potassium": 190.0,
+            "iron": 0.6,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 44.0
+        },
+        {
+            "food_id": 7106,
+            "name": "パッションフルーツ",
+            "dietary_fiber": 0.0,
+            "potassium": 280.0,
+            "iron": 0.6,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 16.0
+        },
+        {
+            "food_id": 7107,
+            "name": "バナナ",
+            "dietary_fiber": 1.1,
+            "potassium": 360.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 16.0
+        },
+        {
+            "food_id": 7109,
+            "name": "パパイア",
+            "dietary_fiber": 2.2,
+            "potassium": 210.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 50.0
+        },
+        {
+            "food_id": 7114,
+            "name": "びわ",
+            "dietary_fiber": 1.6,
+            "potassium": 160.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 5.0
+        },
+        {
+            "food_id": 7116,
+            "name": "ぶどう",
+            "dietary_fiber": 0.5,
+            "potassium": 130.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 2.0
+        },
+        {
+            "food_id": 7124,
+            "name": "ブルーベリー",
+            "dietary_fiber": 3.3,
+            "potassium": 70.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 9.0
+        },
+        {
+            "food_id": 7128,
+            "name": "ホワイトサポテ",
+            "dietary_fiber": 3.1,
+            "potassium": 220.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 18.0
+        },
+        {
+            "food_id": 7130,
+            "name": "まくわうり",
+            "dietary_fiber": 1.0,
+            "potassium": 280.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 30.0
+        },
+        {
+            "food_id": 7131,
+            "name": "マルメロ",
+            "dietary_fiber": 5.1,
+            "potassium": 160.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 18.0
+        },
+        {
+            "food_id": 7132,
+            "name": "マンゴー",
+            "dietary_fiber": 1.3,
+            "potassium": 170.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 20.0
+        },
+        {
+            "food_id": 7133,
+            "name": "マンゴスチン",
+            "dietary_fiber": 1.4,
+            "potassium": 100.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.11,
+            "vitamin_c": 3.0
+        },
+        {
+            "food_id": 7134,
+            "name": "メロン",
+            "dietary_fiber": 0.5,
+            "potassium": 340.0,
+            "iron": 0.3,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 18.0
+        },
+        {
+            "food_id": 7136,
+            "name": "もも",
+            "dietary_fiber": 1.3,
+            "potassium": 180.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 8.0
+        },
+        {
+            "food_id": 7140,
+            "name": "ネクタリン",
+            "dietary_fiber": 1.7,
+            "potassium": 210.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 10.0
+        },
+        {
+            "food_id": 7141,
+            "name": "やまもも",
+            "dietary_fiber": 1.1,
+            "potassium": 120.0,
+            "iron": 0.4,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 4.0
+        },
+        {
+            "food_id": 7144,
+            "name": "ライチー",
+            "dietary_fiber": 0.9,
+            "potassium": 170.0,
+            "iron": 0.2,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 36.0
+        },
+        {
+            "food_id": 7146,
+            "name": "ラズベリー",
+            "dietary_fiber": 4.7,
+            "potassium": 150.0,
+            "iron": 0.7,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 22.0
+        },
+        {
+            "food_id": 7147,
+            "name": "りゅうがん",
+            "dietary_fiber": 2.8,
+            "potassium": 1000.0,
+            "iron": 1.7,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 0.0
+        },
+        {
+            "food_id": 7148,
+            "name": "りんご",
+            "dietary_fiber": 1.4,
+            "potassium": 120.0,
+            "iron": 0.1,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 4.0
+        }
+    ]
 }
