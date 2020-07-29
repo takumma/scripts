@@ -17,7 +17,9 @@ for i in range(9, 183):
     iron = sheet.cell(row = i, column = 28).value
     vitamin_b1 = sheet.cell(row = i, column = 48).value
     vitamin_c = sheet.cell(row = i, column = 56).value
-    
+
+    food_id = int(food_id)
+
     if dietary_fiber == 'Tr':
         dietary_fiber = 0
     else:
@@ -46,19 +48,21 @@ for i in range(9, 183):
     
     if fruits_list[-1]['name'] != name:
         fruits_list.append({
-            "food_id": int(food_id),
+            "food_id": food_id,
             "name": name,
-            "dietary_fiber": float(dietary_fiber),
-            "potassium": float(potassium),
-            "iron": float(iron),
-            "vitamin_b1": float(vitamin_b1),
-            "vitamin_c": float(vitamin_c),
+            "dietary_fiber": dietary_fiber,
+            "potassium": potassium,
+            "iron": iron,
+            "vitamin_b1": vitamin_b1,
+            "vitamin_c": vitamin_c,
         })
     
+fruits_list.pop(0)
+
 data_dict = {
     "data": "fruits",
     "fruits": fruits_list
 }
 
-with open(json_path, mode = 'a', encoding = 'utf-8') as f:
+with open(json_path, mode = 'w', encoding = 'utf-8') as f:
     f.write(json.dumps(data_dict, ensure_ascii = False, indent = 4))

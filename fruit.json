@@ -2,10 +2,6 @@
     "data": "fruits",
     "fruits": [
         {
-            "food_id": 0,
-            "name": ""
-        },
-        {
             "food_id": 7001,
             "name": "あけび",
             "dietary_fiber": 1.1,
@@ -181,7 +177,7 @@
             "name": "グレープフルーツ",
             "dietary_fiber": 0.6,
             "potassium": 140.0,
-            "iron": 0.0,
+            "iron": 0,
             "vitamin_b1": 0.07,
             "vitamin_c": 36.0
         },
