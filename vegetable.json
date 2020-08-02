@@ -1,0 +1,680 @@
+{
+    "data": "fruits",
+    "fruits": [
+        {
+            "food_id": 6001,
+            "name": "アーティチョーク",
+            "dietary_fiber": 8.7,
+            "potassium": 430,
+            "iron": 0.8,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 15
+        },
+        {
+            "food_id": 6003,
+            "name": "あさつき",
+            "dietary_fiber": 3.3,
+            "potassium": 330,
+            "iron": 0.7,
+            "vitamin_b1": 0.15,
+            "vitamin_c": 26
+        },
+        {
+            "food_id": 6005,
+            "name": "あしたば",
+            "dietary_fiber": 5.6,
+            "potassium": 540,
+            "iron": "1.0",
+            "vitamin_b1": "0.10",
+            "vitamin_c": 41
+        },
+        {
+            "food_id": 6007,
+            "name": "アスパラガス",
+            "dietary_fiber": 1.8,
+            "potassium": 270,
+            "iron": 0.7,
+            "vitamin_b1": 0.14,
+            "vitamin_c": 15
+        },
+        {
+            "food_id": 6328,
+            "name": "アロエ",
+            "dietary_fiber": 0.4,
+            "potassium": 43,
+            "iron": "0",
+            "vitamin_b1": "0",
+            "vitamin_c": 1
+        },
+        {
+            "food_id": 6010,
+            "name": "いんげんまめ",
+            "dietary_fiber": 2.4,
+            "potassium": 260,
+            "iron": 0.7,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 8
+        },
+        {
+            "food_id": 6012,
+            "name": "うど",
+            "dietary_fiber": 1.4,
+            "potassium": 220,
+            "iron": 0.2,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 4
+        },
+        {
+            "food_id": 6014,
+            "name": "やまうど",
+            "dietary_fiber": 1.8,
+            "potassium": 270,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 5
+        },
+        {
+            "food_id": 6015,
+            "name": "えだまめ",
+            "dietary_fiber": "5.0",
+            "potassium": 590,
+            "iron": 2.7,
+            "vitamin_b1": 0.31,
+            "vitamin_c": 27
+        },
+        {
+            "food_id": 6018,
+            "name": "エンダイブ",
+            "dietary_fiber": 2.2,
+            "potassium": 270,
+            "iron": 0.6,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 7
+        },
+        {
+            "food_id": 6019,
+            "name": "トウミョウ",
+            "dietary_fiber": 3.3,
+            "potassium": 350,
+            "iron": "1.0",
+            "vitamin_b1": 0.24,
+            "vitamin_c": 79
+        },
+        {
+            "food_id": 6020,
+            "name": "さやえんどう",
+            "dietary_fiber": "3.0",
+            "potassium": 200,
+            "iron": 0.9,
+            "vitamin_b1": 0.15,
+            "vitamin_c": 60
+        },
+        {
+            "food_id": 6022,
+            "name": "スナップえんどう",
+            "dietary_fiber": 2.5,
+            "potassium": 160,
+            "iron": 0.6,
+            "vitamin_b1": 0.13,
+            "vitamin_c": 43
+        },
+        {
+            "food_id": 6023,
+            "name": "グリンピース",
+            "dietary_fiber": 7.7,
+            "potassium": 340,
+            "iron": 1.7,
+            "vitamin_b1": 0.39,
+            "vitamin_c": 19
+        },
+        {
+            "food_id": 6027,
+            "name": "おおさかしろな",
+            "dietary_fiber": 1.8,
+            "potassium": 400,
+            "iron": 1.2,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 28
+        },
+        {
+            "food_id": 6030,
+            "name": "おかひじき",
+            "dietary_fiber": 2.5,
+            "potassium": 680,
+            "iron": 1.3,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 21
+        },
+        {
+            "food_id": 6032,
+            "name": "オクラ",
+            "dietary_fiber": "5.0",
+            "potassium": 260,
+            "iron": 0.5,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 11
+        },
+        {
+            "food_id": 6034,
+            "name": "かぶ",
+            "dietary_fiber": 2.9,
+            "potassium": 330,
+            "iron": 2.1,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 82
+        },
+        {
+            "food_id": 6046,
+            "name": "日本かぼちゃ",
+            "dietary_fiber": 2.8,
+            "potassium": 400,
+            "iron": 0.5,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 16
+        },
+        {
+            "food_id": 6048,
+            "name": "西洋かぼちゃ",
+            "dietary_fiber": 3.5,
+            "potassium": 450,
+            "iron": 0.5,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 43
+        },
+        {
+            "food_id": 6051,
+            "name": "そうめんかぼちゃ",
+            "dietary_fiber": 1.5,
+            "potassium": 260,
+            "iron": 0.3,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 11
+        },
+        {
+            "food_id": 6052,
+            "name": "からしな",
+            "dietary_fiber": 3.7,
+            "potassium": 620,
+            "iron": 2.2,
+            "vitamin_b1": 0.12,
+            "vitamin_c": 64
+        },
+        {
+            "food_id": 6054,
+            "name": "カリフラワー",
+            "dietary_fiber": 2.9,
+            "potassium": 410,
+            "iron": 0.6,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 81
+        },
+        {
+            "food_id": 6056,
+            "name": "かんぴょう",
+            "dietary_fiber": 30.1,
+            "potassium": 1800,
+            "iron": 2.9,
+            "vitamin_b1": "0",
+            "vitamin_c": "0"
+        },
+        {
+            "food_id": 6058,
+            "name": "きく",
+            "dietary_fiber": 3.4,
+            "potassium": 280,
+            "iron": 0.7,
+            "vitamin_b1": "0.10",
+            "vitamin_c": 11
+        },
+        {
+            "food_id": 6061,
+            "name": "キャベツ",
+            "dietary_fiber": 1.8,
+            "potassium": 200,
+            "iron": 0.3,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 41
+        },
+        {
+            "food_id": 6063,
+            "name": "グリーンボール",
+            "dietary_fiber": 1.6,
+            "potassium": 270,
+            "iron": 0.4,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 47
+        },
+        {
+            "food_id": 6064,
+            "name": "レッドキャベツ",
+            "dietary_fiber": 2.8,
+            "potassium": 310,
+            "iron": 0.5,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 68
+        },
+        {
+            "food_id": 6065,
+            "name": "きゅうり",
+            "dietary_fiber": 1.1,
+            "potassium": 200,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 14
+        },
+        {
+            "food_id": 6071,
+            "name": "ぎょうじゃにんにく",
+            "dietary_fiber": 3.3,
+            "potassium": 340,
+            "iron": 1.4,
+            "vitamin_b1": "0.10",
+            "vitamin_c": 59
+        },
+        {
+            "food_id": 6075,
+            "name": "キンサイ",
+            "dietary_fiber": 2.5,
+            "potassium": 360,
+            "iron": 0.5,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 15
+        },
+        {
+            "food_id": 6077,
+            "name": "クレソン",
+            "dietary_fiber": 2.5,
+            "potassium": 330,
+            "iron": 1.1,
+            "vitamin_b1": "0.10",
+            "vitamin_c": 26
+        },
+        {
+            "food_id": 6078,
+            "name": "くわい",
+            "dietary_fiber": 2.4,
+            "potassium": 600,
+            "iron": 0.8,
+            "vitamin_b1": 0.12,
+            "vitamin_c": 2
+        },
+        {
+            "food_id": 6080,
+            "name": "ケール",
+            "dietary_fiber": 3.7,
+            "potassium": 420,
+            "iron": 0.8,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 81
+        },
+        {
+            "food_id": 6081,
+            "name": "コールラビ",
+            "dietary_fiber": 1.9,
+            "potassium": 240,
+            "iron": 0.2,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 45
+        },
+        {
+            "food_id": 6083,
+            "name": "こごみ",
+            "dietary_fiber": 5.2,
+            "potassium": 350,
+            "iron": 0.6,
+            "vitamin_b1": "0",
+            "vitamin_c": 27
+        },
+        {
+            "food_id": 6084,
+            "name": "ごぼう",
+            "dietary_fiber": 5.7,
+            "potassium": 320,
+            "iron": 0.7,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 3
+        },
+        {
+            "food_id": 6086,
+            "name": "こまつな",
+            "dietary_fiber": 1.9,
+            "potassium": 500,
+            "iron": 2.8,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 39
+        },
+        {
+            "food_id": 6088,
+            "name": "ザーサイ ",
+            "dietary_fiber": 4.6,
+            "potassium": 680,
+            "iron": 2.9,
+            "vitamin_b1": 0.04,
+            "vitamin_c": "0"
+        },
+        {
+            "food_id": 6089,
+            "name": "さんとうさい",
+            "dietary_fiber": 2.2,
+            "potassium": 360,
+            "iron": 0.7,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 35
+        },
+        {
+            "food_id": 6092,
+            "name": "しかくまめ",
+            "dietary_fiber": 3.2,
+            "potassium": 270,
+            "iron": 0.7,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 16
+        },
+        {
+            "food_id": 6093,
+            "name": "ししとう",
+            "dietary_fiber": 3.6,
+            "potassium": 340,
+            "iron": 0.5,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 57
+        },
+        {
+            "food_id": 6095,
+            "name": "しそ",
+            "dietary_fiber": 7.3,
+            "potassium": 500,
+            "iron": 1.7,
+            "vitamin_b1": 0.13,
+            "vitamin_c": 26
+        },
+        {
+            "food_id": 6097,
+            "name": "じゅうろくささげ",
+            "dietary_fiber": 4.2,
+            "potassium": 250,
+            "iron": 0.5,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 25
+        },
+        {
+            "food_id": 6099,
+            "name": "しゅんぎく",
+            "dietary_fiber": 3.2,
+            "potassium": 460,
+            "iron": 1.7,
+            "vitamin_b1": "0.10",
+            "vitamin_c": 19
+        },
+        {
+            "food_id": 6101,
+            "name": "じゅんさい",
+            "dietary_fiber": "1.0",
+            "potassium": 2,
+            "iron": "0",
+            "vitamin_b1": "0",
+            "vitamin_c": "0"
+        },
+        {
+            "food_id": 6102,
+            "name": "葉しょうが",
+            "dietary_fiber": 1.6,
+            "potassium": 310,
+            "iron": 0.4,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 3
+        },
+        {
+            "food_id": 6103,
+            "name": "しょうが",
+            "dietary_fiber": 2.1,
+            "potassium": 270,
+            "iron": 0.5,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 2
+        },
+        {
+            "food_id": 6106,
+            "name": "しろうり",
+            "dietary_fiber": 1.2,
+            "potassium": 220,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 8
+        },
+        {
+            "food_id": 6109,
+            "name": "ずいき",
+            "dietary_fiber": 1.6,
+            "potassium": 390,
+            "iron": 0.1,
+            "vitamin_b1": 0.01,
+            "vitamin_c": 5
+        },
+        {
+            "food_id": 6113,
+            "name": "すぐきな",
+            "dietary_fiber": "4.0",
+            "potassium": 680,
+            "iron": 2.6,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 73
+        },
+        {
+            "food_id": 6116,
+            "name": "ズッキーニ",
+            "dietary_fiber": 1.3,
+            "potassium": 320,
+            "iron": 0.5,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 20
+        },
+        {
+            "food_id": 6117,
+            "name": "せり",
+            "dietary_fiber": 2.5,
+            "potassium": 410,
+            "iron": 1.6,
+            "vitamin_b1": 0.04,
+            "vitamin_c": 20
+        },
+        {
+            "food_id": 6119,
+            "name": "セロリ",
+            "dietary_fiber": 1.5,
+            "potassium": 410,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 7
+        },
+        {
+            "food_id": 6120,
+            "name": "ぜんまい",
+            "dietary_fiber": 3.8,
+            "potassium": 340,
+            "iron": 0.6,
+            "vitamin_b1": 0.02,
+            "vitamin_c": 24
+        },
+        {
+            "food_id": 6124,
+            "name": "そらまめ",
+            "dietary_fiber": 2.6,
+            "potassium": 440,
+            "iron": 2.3,
+            "vitamin_b1": "0.30",
+            "vitamin_c": 23
+        },
+        {
+            "food_id": 6126,
+            "name": "タアサイ",
+            "dietary_fiber": 1.9,
+            "potassium": 430,
+            "iron": 0.7,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 31
+        },
+        {
+            "food_id": 6128,
+            "name": "かいわれだいこん",
+            "dietary_fiber": 1.9,
+            "potassium": 99,
+            "iron": 0.5,
+            "vitamin_b1": 0.08,
+            "vitamin_c": 47
+        },
+        {
+            "food_id": 6129,
+            "name": "葉だいこん",
+            "dietary_fiber": 2.6,
+            "potassium": 340,
+            "iron": 1.4,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 49
+        },
+        {
+            "food_id": 6130,
+            "name": "だいこん",
+            "dietary_fiber": "4.0",
+            "potassium": 400,
+            "iron": 3.1,
+            "vitamin_b1": 0.09,
+            "vitamin_c": 53
+        },
+        {
+            "food_id": 6136,
+            "name": "切干しだいこん",
+            "dietary_fiber": 21.3,
+            "potassium": 3500,
+            "iron": 3.1,
+            "vitamin_b1": 0.35,
+            "vitamin_c": 28
+        },
+        {
+            "food_id": 6137,
+            "name": "漬物",
+            "dietary_fiber": 1.8,
+            "potassium": 480,
+            "iron": 0.3,
+            "vitamin_b1": 0.33,
+            "vitamin_c": 15
+        },
+        {
+            "food_id": 6144,
+            "name": "つまみな",
+            "dietary_fiber": 2.3,
+            "potassium": 450,
+            "iron": 3.3,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 47
+        },
+        {
+            "food_id": 6145,
+            "name": "たいさい",
+            "dietary_fiber": 1.6,
+            "potassium": 340,
+            "iron": 1.1,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 45
+        },
+        {
+            "food_id": 6147,
+            "name": "たかな",
+            "dietary_fiber": 2.5,
+            "potassium": 300,
+            "iron": 1.7,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 69
+        },
+        {
+            "food_id": 6149,
+            "name": "たけのこ",
+            "dietary_fiber": 2.8,
+            "potassium": 520,
+            "iron": 0.4,
+            "vitamin_b1": 0.05,
+            "vitamin_c": 10
+        },
+        {
+            "food_id": 6153,
+            "name": "たまねぎ",
+            "dietary_fiber": 1.6,
+            "potassium": 150,
+            "iron": 0.2,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 8
+        },
+        {
+            "food_id": 6156,
+            "name": "赤たまねぎ",
+            "dietary_fiber": 1.7,
+            "potassium": 150,
+            "iron": 0.3,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 7
+        },
+        {
+            "food_id": 6337,
+            "name": "葉たまねぎ",
+            "dietary_fiber": "3.0",
+            "potassium": 290,
+            "iron": 0.6,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 32
+        },
+        {
+            "food_id": 6157,
+            "name": "たらのめ",
+            "dietary_fiber": 4.2,
+            "potassium": 460,
+            "iron": 0.9,
+            "vitamin_b1": 0.15,
+            "vitamin_c": 7
+        },
+        {
+            "food_id": 6159,
+            "name": "チコリ",
+            "dietary_fiber": 1.1,
+            "potassium": 170,
+            "iron": 0.2,
+            "vitamin_b1": 0.06,
+            "vitamin_c": 2
+        },
+        {
+            "food_id": 6160,
+            "name": "チンゲンサイ",
+            "dietary_fiber": 1.2,
+            "potassium": 260,
+            "iron": 1.1,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 24
+        },
+        {
+            "food_id": 6162,
+            "name": "つくし",
+            "dietary_fiber": 8.1,
+            "potassium": 640,
+            "iron": 2.1,
+            "vitamin_b1": 0.07,
+            "vitamin_c": 33
+        },
+        {
+            "food_id": 6164,
+            "name": "つるな",
+            "dietary_fiber": 2.3,
+            "potassium": 300,
+            "iron": "3.0",
+            "vitamin_b1": 0.08,
+            "vitamin_c": 22
+        },
+        {
+            "food_id": 6165,
+            "name": "つるむらさき",
+            "dietary_fiber": 2.2,
+            "potassium": 210,
+            "iron": 0.5,
+            "vitamin_b1": 0.03,
+            "vitamin_c": 41
+        }
+    ]
+}
