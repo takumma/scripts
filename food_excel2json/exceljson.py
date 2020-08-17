@@ -3,13 +3,13 @@ import json
 
 load_book = openpyxl.load_workbook('C:/Users/taku3/work/scripts/1365344_1-0206r11.xlsx')
 sheet = load_book['06 野菜類']
-json_path = 'C:/Users/taku3/work/scripts/vegetable.json'
+json_path = 'C:/Users/taku3/work/sumuppi/json/vegetable.json'
 
 fruits_list = [{
     "food_id": 0,
     "name": ""
 }]
-for i in range(9, 183):
+for i in range(9, 371):
     food_id = sheet.cell(row = i, column = 2).value
     name = sheet.cell(row = i, column = 4).value
     dietary_fiber = sheet.cell(row = i, column = 21).value
