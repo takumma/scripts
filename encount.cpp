@@ -9,7 +9,7 @@ int main() {
         cin >>s;
         if(cin.eof())
             break;
-        if(s[0] != '(') {
+        if(s[0] != '{') {
             count++;
         }
     }
